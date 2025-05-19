@@ -19,8 +19,7 @@
 
 ## 🎥 MacOS 视频教程演示
 
-📺 [点击播放视频](media/m4.mp4)
-
 <video controls width="100%">
-  <source src="media/m4.mp4" type="video/mp4">
+  <source src="/clients/media/windows.mp4" type="video/mp4">
+  您的浏览器不支持 video 标签。
 </video>
