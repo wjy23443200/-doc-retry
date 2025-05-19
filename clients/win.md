@@ -19,12 +19,11 @@
 
 [点击下载win64位](https://windows.wjy23443200.top/Clash.Verge_2.0.3_x64-setup.exe)
 
-## 🎥 Windows Clashverge 视频教程演示
-
-📺 [点击播放视频](media/windows.mp4)
+## 🎥 Windows视频教程演示
 
 <video controls width="100%">
-  <source src="media/windows.mp4" type="video/mp4">
+  <source src="/clients/media/windows.mp4" type="video/mp4">
+  您的浏览器不支持 video 标签。
 </video>
 
  
