@@ -12,7 +12,7 @@
 
 >1. 打开浏览器，访问以下网址下载安装包（推荐 GitHub 发布页或镜像源）：
 
-   👉 [Clash Meta for Android ](https://android.wjy23443200.top/CMFA-android-universal-release.apk)
+   👉 [Clash Meta for Android ](https://and.catpaw.cloud/cmfa-2.11.11-meta-universal-release.apk)
 
       下载完成后，点击安装。如果被拦截提示“未知来源”，请前往：设置 > 安全 > 允许安装未知来源应用`，然后重新尝试安装。
 

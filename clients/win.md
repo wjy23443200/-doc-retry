@@ -17,7 +17,7 @@
 
 
 
-[点击下载win64位](https://windows.wjy23443200.top/Clash.Verge_2.0.3_x64-setup.exe)
+[点击下载win64位](https://and.catpaw.cloud/Clash.Verge_2.2.3_x64-setup.exe)
 
 ## 🎥 Windows视频教程演示
 
