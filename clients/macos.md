@@ -13,16 +13,15 @@
 
 ---
 
->点击播放视频教程
-
->共享美区ID咨询客服邮箱 `强烈建议登录自有美区id`下载shadowrocket`方便各种软件更新和下载，共享ID仅适合应急使用，共享ID`禁止登录iCloud`有锁机风险，只登录App Store即可（某鱼或某宝有卖独享美区ID，可能需要搜索技巧）
+>共享美区ID咨询客服邮箱 `强烈建议登录自有美区id`下载shadowrocket,方便各种软件更新和下载，共享ID仅适合应急使用，`共享ID禁止登录iCloud`有锁机风险，只登录App Store即可（某鱼或某宝有卖独享美区ID，可能需要搜索技巧）
 
 连接成功后，可以加入TG群组每次获得共享ID密码变更提醒[点击加入](https://t.me/+RMAHp8JAtpY2NDZh)
 
 官网购买地址发布页 [点击前往](https://renyimen.us) 找到最新的官网地址
 
-## 🎥 MacOS 视频教程演示
 
+## 🎥 MacOS 视频教程演示
+>点击播放视频教程
 <video controls width="100%">
   <source src="/clients/media/m4.mp4" type="video/mp4">
   您的浏览器不支持 video 标签。
