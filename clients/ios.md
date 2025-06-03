@@ -73,7 +73,7 @@
 ![sub2](media/sub2.jpg)
 ![iphone](media/iphone.gif)
 
-
+<!--
 ### 方法二：自动导入（推荐）
 
 >1. 在官网购买页面中，找到“一键导入”点击[点击前往](https://renyimen.top/#/user/center) 
@@ -81,7 +81,7 @@
 >3. Shadowrocket 会自动添加订阅地址并打开软件
 
 ![sub](media/sub.jpg)
-
+-->
 
 
 ---
